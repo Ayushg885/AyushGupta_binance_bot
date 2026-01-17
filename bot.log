@@ -1,0 +1,45 @@
+2026-01-14 20:03:43,859 | INFO | Connected to Binance | Testnet=True
+2026-01-15 18:53:41,162 | INFO | Connected to Binance | Testnet=True
+2026-01-15 18:53:45,437 | INFO | Inputs validated for BTCUSDT | Quantity=1.0 | Price=None
+2026-01-15 18:53:46,286 | ERROR | Market order failed: APIError(code=-2019): Margin is insufficient.
+2026-01-15 18:55:41,124 | INFO | Connected to Binance | Testnet=True
+2026-01-15 18:55:44,689 | INFO | Inputs validated for BTCUSDT | Quantity=0.1 | Price=None
+2026-01-15 18:55:45,540 | INFO | Market order placed: {'orderId': 11707411252, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ5b990559c98ebe00cc6546', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.100', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1768483545465}
+2026-01-15 18:57:17,006 | INFO | Connected to Binance | Testnet=True
+2026-01-15 18:57:20,233 | INFO | Inputs validated for BTCUSDT | Quantity=0.1 | Price=None
+2026-01-15 18:57:21,256 | INFO | Market order placed: {'orderId': 11707439522, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJf41c9e6380cae365514fc0', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.100', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1768483641181}
+2026-01-15 18:58:04,975 | INFO | Connected to Binance | Testnet=True
+2026-01-15 18:58:09,605 | INFO | Inputs validated for BTCUSDT | Quantity=5000.0 | Price=None
+2026-01-15 18:58:10,174 | ERROR | Market order failed: APIError(code=-4005): Quantity greater than max quantity.
+2026-01-15 18:59:06,988 | INFO | Connected to Binance | Testnet=True
+2026-01-15 18:59:12,084 | INFO | Inputs validated for BTCUSDT | Quantity=10000.0 | Price=None
+2026-01-15 18:59:12,945 | ERROR | Market order failed: APIError(code=-4005): Quantity greater than max quantity.
+2026-01-15 19:05:41,777 | INFO | Connected to Binance | Testnet=True
+2026-01-15 19:05:44,674 | INFO | Inputs validated for BTCUSDT | Quantity=10000.0 | Price=None
+2026-01-15 19:05:45,653 | ERROR | Market order failed: APIError(code=-4005): Quantity greater than max quantity.
+2026-01-15 19:06:23,076 | INFO | Connected to Binance | Testnet=True
+2026-01-15 19:31:29,598 | INFO | Connected to Binance | Testnet=True
+2026-01-15 19:31:33,754 | INFO | Inputs validated for BTCUSDT | Quantity=7.0 | Price=None
+2026-01-15 19:31:34,660 | ERROR | Market order failed: APIError(code=-2019): Margin is insufficient.
+2026-01-15 19:41:23,961 | INFO | Connected to Binance | Testnet=True
+2026-01-15 19:41:23,962 | ERROR | Validation Error: get_current_balance() takes 1 positional argument but 2 were given
+2026-01-15 19:43:54,331 | INFO | Connected to Binance | Testnet=True
+2026-01-15 19:43:54,335 | ERROR | Validation Error: get_current_balance() takes 1 positional argument but 2 were given
+2026-01-15 19:44:09,251 | INFO | Connected to Binance | Testnet=True
+2026-01-15 19:44:09,252 | ERROR | Validation Error: BasicBot.get_price() takes 1 positional argument but 2 were given
+2026-01-15 19:44:37,005 | INFO | Connected to Binance | Testnet=True
+2026-01-15 19:44:37,006 | ERROR | Validation Error: BasicBot.get_price() takes 1 positional argument but 2 were given
+2026-01-15 19:44:57,171 | INFO | Connected to Binance | Testnet=True
+2026-01-15 19:47:03,850 | INFO | Connected to Binance | Testnet=True
+2026-01-15 19:49:34,002 | INFO | Connected to Binance | Testnet=True
+2026-01-15 19:51:26,062 | INFO | Connected to Binance | Testnet=True
+2026-01-15 19:52:43,820 | INFO | Connected to Binance | Testnet=True
+2026-01-15 19:54:43,309 | INFO | Connected to Binance | Testnet=True
+2026-01-15 19:55:38,717 | INFO | Connected to Binance | Testnet=True
+2026-01-15 19:56:37,873 | INFO | Connected to Binance | Testnet=True
+2026-01-15 19:56:40,710 | INFO | Fetched USDT balance: 4919.55287071
+2026-01-15 19:57:34,326 | INFO | Inputs validated for BTCUSDT | Quantity=0.01 | Price=None
+2026-01-15 19:57:34,856 | INFO | Market order placed: {'orderId': 11708501777, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ7b6cc72c8cd30dea85d5ef', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1768487254747}
+2026-01-15 19:57:48,588 | INFO | Fetched USDT balance: 4919.16568391
+2026-01-15 19:58:29,349 | INFO | Inputs validated for BTCUSDT | Quantity=0.01 | Price=45000.0
+2026-01-15 19:58:30,541 | ERROR | Limit order failed: APIError(code=-4024): Limit price can't be lower than 91904.65.
